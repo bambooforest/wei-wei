@@ -1,0 +1,98 @@
+Grapheme	IPA	Class	Left	Right
+ပ	p	c-on		
+တ	t	c-on		
+စ	c	c-on		
+က	k	c-on		
+အ	ʔ	c-on		
+ဖ	pʰ	c-on		
+ထ	tʰ	c-on		
+ခ	kʰ	c-on		
+ဘ	b	c-on		
+ဒ	d	c-on		
+ဇ	ɟ	c-on		
+ဂ	g	c-on		
+မ့	ʔm	c-on	\b	
+မ	m	c-on		
+န့	ʔŋ	c-on	\b	
+န	n	c-on		
+ည	ɲ	c-on		
+င	ŋ	c-on		
+မှ	hm	c-on		
+နှ	hn	c-on		
+ညှ	hɲ	c-on		
+ငှ	hŋ	c-on		
+ဝ	ʋ	c-on		
+လ	l	c-on		
+ရ	r	c-on		
+ယ	j	c-on		
+လှ	hl	c-on		
+ရှ	hr	c-on		
+ဆ	s	c-on		
+ဟ	h	c-on		
+ြ	r	c-on		
+ျ	j	c-on		
+ုဝ်	o			း
+ုဝ်	ɔu			
+ာယ်	ae			
+ါယ်	ae			
+ိုဝ်	aɯ			
+ွို	ʌ			
+ိုယ်	ɯi			
+ိဝ်	iu			
+ဝ်	aɔ		c-on|ာ	
+ွတ်	oe			
+ွဲ့	ɔe			
+ူယ်	oi			
+ဲ့	ɛʔ		ဟ	
+ဲ့	aiʔ			
+ိတ်	it			
+ေတ်	et			
+ာတ့်	aiʔ			
+ီ	i			
+ိ	i			
+ိူဝ်	ɤ			
+ို	ɯ			[^ဝ်]
+ိူ	ɯː			
+ု	ou			း
+ု	u			[^ဝ်]
+ူ	u			[^c-co]
+ေ	ʌi			\b
+ေ	e			
+ူ	o			c-co
+ဲ	ai			း
+ဲ	ɛ			
+ာ	a		c-on	c-co
+ာ	aː			c-co
+ါ	aː			c-co
+ာ	a			
+ါ	a			
+ွ	u			ာ|ါ
+ွ	ɔ			တ်
+ွ	ɔu			c-co
+ွ	ɔ			
+ော	ɔ			
+င်	k	c-co		
+န်	n	c-co	c-on	
+န်	ŋ	c-co		
+န့်	ŋ	c-co	ေ	
+န့်	n	c-co		
+မ်	m	c-co	c-on	
+မ်	ŋ	c-co		
+ပ်	p	c-co		
+တ်	ʔ	c-co		
+က်	k	c-co		
+း	h	c-co		
+့				
+1	1			
+2	2			
+3	3			
+4	4			
+5	5			
+6	6			
+7	7			
+8	8			
+9	9			
+0	0			
+","	","			
+.	.			
+ 	 			
